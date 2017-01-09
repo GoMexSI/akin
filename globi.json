@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "akin"
+  "format": "akin",
+  "resources": {
+    "akin/Senol-akin-(mad-island)-data-edited-sheet3-winter2.csv": "Senol-akin-(mad-island)-data-edited-sheet3-winter2.csv",
+    "akin/Senol-akin-(mad-island)-data-edited-sheet4-summer2.csv": "Senol-akin-(mad-island)-data-edited-sheet4-summer2.csv" 
+  }
 }
