@@ -1,7 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "akin",
-  "citation", "Akin, S., & Winemiller, K. O. (2006). Seasonal variation in food web composition and structure in a temperate tidal estuary. Estuaries and Coasts, 29(4), 552–567. doi:10.1007/bf02784282",
+  "citation": "Akin, S., & Winemiller, K. O. (2006). Seasonal variation in food web composition and structure in a temperate tidal estuary. Estuaries and Coasts, 29(4), 552–567. doi:10.1007/bf02784282",
   "doi": "10.1007/bf02784282",
   "resources": {
     "akin/Senol-akin-(mad-island)-data-edited-sheet3-winter2.csv": "Senol-akin-(mad-island)-data-edited-sheet3-winter2.csv",
